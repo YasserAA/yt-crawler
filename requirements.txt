@@ -1,0 +1,7 @@
+BeautifulSoup4
+requests
+lxml
+pprint
+selenium
+mysql-connector-python
+python-slugify
